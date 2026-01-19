@@ -4,7 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7d7f1cac-98e0-4fa5-96d1-9cf3e4fa242b" name="Changes" comment="repositary" />
+    <list default="true" id="7d7f1cac-98e0-4fa5-96d1-9cf3e4fa242b" name="Changes" comment="repositary">
+      <change afterPath="$PROJECT_DIR$/Day_08(12_2026)/Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_08(12_2026)/Global and local variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_08(12_2026)/Types of Arguments.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_09(13_2026)/oops Practical.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_09(13_2026)/oops thoery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_10(15_2026)/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/Animal.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/Calculator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/a and b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/a.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/animal and bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/b.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/bird.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_11(17_2026)/operations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/Packages Example statements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/client2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/pack1/Module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/pack1/Module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/pack1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packA/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packA/emp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packB/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packB/stu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packC/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/packC/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/package1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/package1/module1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/package1/package2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_12(18_2026)/package1/package2/module2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_13(19_2026)/Exception handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day_13(19_2026)/File Handling.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,11 +57,17 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="386FXIf1jIVGUlsMH1iSeXRsKvJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -42,6 +82,8 @@
     "Python.Concatenation operator.executor": "Run",
     "Python.Data types.executor": "Run",
     "Python.Formatting output.executor": "Run",
+    "Python.client.executor": "Run",
+    "Python.client2.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
     "last_opened_file_path": "C:/Users/User/PycharmProjects"
@@ -106,8 +148,51 @@
       <option name="project" value="LOCAL" />
       <updated>1768114643047</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="repositary">
+      <option name="closed" value="true" />
+      <created>1768114989421</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1768114989421</updated>
+    </task>
+    <task id="LOCAL-00007" summary="repositary">
+      <option name="closed" value="true" />
+      <created>1768114998764</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1768114998764</updated>
+    </task>
+    <task id="LOCAL-00008" summary="repositary">
+      <option name="closed" value="true" />
+      <created>1768115021490</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1768115021490</updated>
+    </task>
+    <task id="LOCAL-00009" summary="repositary">
+      <option name="closed" value="true" />
+      <created>1768132482094</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1768132482094</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="repositary" />
